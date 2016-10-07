@@ -1,4 +1,4 @@
-package base;
+package ps3;
 
 public class InsufficientFundsException extends Exception {
 	

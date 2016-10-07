@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <class-diagram version="1.1.10" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
-  <class id="1" language="java" name="base.Account" project="PS3" file="/PS3/src/base/Account.java" binary="false" 
+  <class id="1" language="java" name="ps3.Account" project="PS3" file="/PS3/src/ps3/Account.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="396" width="265" x="73" y="-81"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -11,7 +11,7 @@
     </display>  
   </class>  
   <class id="2" language="java" name="base.AccountFunctionTest" project="PS3" 
-    file="/PS3/src/base/AccountFunctionTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    file="/PS3/tests/base/AccountFunctionTest.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="196" width="209" x="426" y="-74"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -19,8 +19,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="3" language="java" name="base.InsufficientFundsException" project="PS3" 
-    file="/PS3/src/base/InsufficientFundsException.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="3" language="java" name="ps3.InsufficientFundsException" project="PS3" 
+    file="/PS3/src/ps3/InsufficientFundsException.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="136" width="267" x="735" y="-61"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      

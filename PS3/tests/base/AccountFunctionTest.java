@@ -5,8 +5,8 @@ import java.text.DecimalFormat;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-import base.Account;
-import base.InsufficientFundsException;
+import ps3.Account;
+import ps3.InsufficientFundsException;
 
 
 public class AccountFunctionTest {
